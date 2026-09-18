@@ -37,34 +37,22 @@ I'm **Khalid Abdullahi**, a **BSc Cybersecurity & Networking** student at **ISBA
 
 I run controlled offensive-security labs end to end — web application exploitation, Windows/Linux credential attacks, wireless attacks, and CTF-style walkthroughs — while also building the secure network infrastructure (routing, segmentation, SIEM) that those attacks target in a lab setting.
 
-Fluent in **English, Kiswahili, and Somali**, and driven by one principle:
+Fluent in **English, Kiswahili, Somali, and Arabic**, and driven by one principle:
 
-> *"Understand the network. Build the system. Test the security."*
+> *"Understand the network and Test the security."*
 
 </div>
 
-**🎯 Open To:**
+**Open To:**
 
-- 🛡️ Security Engineering roles
-- 🎯 VAPT / Penetration Testing internships
+-  Security Engineering roles
+-  VAPT / Penetration Testing internships
 
 <br/>
 
 ---
 
 ## 🟣 Tech Stack
-
-**Backend & Databases**
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=flask,nodejs,mysql,sqlite&theme=dark" />
-</p>
-
-**Cloud, DevOps & Tooling**
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=linux,git,github,docker,vscode,postman&theme=dark" />
-</p>
 
 **Security & Offensive Tooling**
 
